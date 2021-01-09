@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Create-With-Code-Project-Four.iml
+# Datasource local storage ignored files
+/../../../../../../:\GitHub Repositories\Create-With-Code-Project-Four\.idea\.idea.Create-With-Code-Project-Four\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
